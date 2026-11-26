@@ -1,0 +1,24 @@
+{
+  "name": "GudangKu WMS — Manajemen Stok & Inventaris Offline-First",
+  "short_name": "GudangKu",
+  "description": "Aplikasi Multi-Tenant Manajemen Stok Gudang & Inventaris Aset Offline-First PWA untuk UMKM, Distributor, dan Sekolah.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#F8FAFC",
+  "theme_color": "#0F172A",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "/icons/icon-192.svg",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icons/icon-512.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

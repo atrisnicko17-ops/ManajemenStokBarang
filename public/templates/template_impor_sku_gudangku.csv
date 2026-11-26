@@ -1,0 +1,5 @@
+sku_code,barcode,name,category,bin_code,base_unit,uom_name,uom_multiplier,min_stock,qty_initial,cost_price,is_fixed_asset,expiry_date
+ATK-F4-75,8991234500012,Kertas F4 75gr Sinar Dunia,ATK,ZONA-A/RAK-01,Rim,Box,5,10,42,48000,false,
+ATK-TNT-BK,8991234500029,Tinta Printer Epson 003 Hitam,Tinta & Toner,ZONA-A/RAK-03,Botol,Lusin,12,8,6,85000,false,2027-08-15
+AST-PRJ-01,QR-INT-PRJ01,Proyektor Epson EB-X500,Aset Elektronik,ZONA-B/LEMARI-02,Unit,Unit,1,1,4,5650000,true,
+FNB-SUSU-1L,8998888100114,Susu UHT Full Cream 1L,Bahan F&B,ZONA-C/CHILLER-01,Kotak,Karton,12,24,72,17500,false,2027-01-20
