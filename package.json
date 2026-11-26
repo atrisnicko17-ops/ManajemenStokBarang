@@ -1,12 +1,13 @@
 {
-  "name": "gudangku-wms",
+  "name": "manajemen-stok-barang",
   "version": "1.0.0",
   "private": true,
-  "description": "GudangKu WMS — Multi-Tenant, Offline-First Warehouse & Asset Management PWA",
+  "description": "Manajemen Stok Barang (GudangKu WMS) — Multi-Tenant, Offline-First Warehouse & Asset Management PWA",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "start": "next start",
+    "start": "npx serve dist",
+    "cf:deploy": "npm run build && npx wrangler deploy",
     "typecheck": "tsc --noEmit",
     "test": "vitest run",
     "test:watch": "vitest"
