@@ -1,6 +1,6 @@
 {
   "name": "manajemen-stok-barang",
-  "account_id": "ac9c02897e46f5fe1421a7c917909bba",
+  "account_id": "f7f3a934a51323fc3d29c8bdd8a7dd30",
   "compatibility_date": "2026-11-01",
   "main": "worker/index.ts",
   "assets": {
